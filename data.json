@@ -1,0 +1,22 @@
+{
+    "career":{
+            "info":"To pursue a challenging career."
+            },
+    "education":[
+    {
+      "degree":"ssc",
+      "school":"audisankara",
+      "date":["2005","80%"]
+    },
+    {
+      "degree":"INTERMEDIATE",
+      "school":"narayana",
+      "date":["2008","80%"]
+    },
+    {
+      "degree":"GRADUATION",
+      "school":"svec",
+      "date":["2011","80%"]
+    }
+  ]
+}
